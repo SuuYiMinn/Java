@@ -1,0 +1,37 @@
+In this example app, we will simulate a simple email
+system. A little background on what happens when
+you send an email is explained in the lecture. Here are
+the requirements:
+
+1) Compose (Compose) menu:
+    1.1) ask for "to email"
+    1.2) ask for "from email"
+    1.3) ask for "email subject"
+    1.4) ask to write message body
+    1.5) S (Send) or C (Cancel)
+
+2) Check (Check mailbox)
+    2.1) ask to enter email address of the account
+    2.2) Show the list of received emails in the inbox
+    2.3) R (read email) or C (Cancel)
+        2.3.1) Ex for you: think about what should happen next when you choose to read an email
+[Note: Like your gmail inbox, our simulation should also have indicator for read/not read status]
+
+3) Sent (Check sent mails)
+    3.1) ask to enter account email address
+    3.2) show the list of emails sent by the account
+
+Things to consider
+    As discussed, we will have two email providers. One is Noodle Inc and another is Jabboo Inc.
+
+    Each Inc will have email accounts of their customers.
+
+    All Noodle Inc email account will end with noodle.com. All Jabboo account with jabboo.com.
+
+    From what we have learned so far, what are a few other classes you can consider we should have.
+
+
+
+
+
+

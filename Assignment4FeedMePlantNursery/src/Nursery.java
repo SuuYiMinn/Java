@@ -1,0 +1,5 @@
+/*
+Nursery
+ */
+public class Nursery {
+}
